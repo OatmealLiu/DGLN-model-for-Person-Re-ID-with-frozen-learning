@@ -1,0 +1,11 @@
+batchsize: 16
+data_dir: ../Market
+droprate: 0.3
+gpu_ids: '0'
+lr: 0.01
+mom: 0.9
+num_epochs: 240
+optimizer: Adam
+stride: 2
+warm_epoch: 40
+wd: 0.0005
